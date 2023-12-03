@@ -398,19 +398,19 @@ include 'shared/header.php';
 		<div class="container-fluid">
 			<div class="sec-title light centered">
 				<div class="sec-title_title">We <span class="theme_color"> Cater </span> to</div>
-				<h2 class="sec-title_heading"><br> alomst all sectors </h2>
+				<h2 class="sec-title_heading">alomst <span class="theme_color"> all sectors </span> </h2>
 			</div>
 			<div class="clients-three_inner-container">
 				<!-- Sponsors Carousel -->
 				<ul class="sponsors-carousel-two owl-carousel owl-theme">
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/education_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/finance_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/government_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/travel_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/retail_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/manufacture_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/healthcare_.jpg" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/telecom_.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/education_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/finance_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/government_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/travel_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/retail_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/manufacture_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/healthcare_sector.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/telecom_sector.jpg" alt=""></a></figure></li>
 				</ul>
 			</div>
 		</div>
@@ -424,7 +424,7 @@ include 'shared/header.php';
 			<div class="awards-one_pattern-2" style="background-image:url(assets/images/background/pattern-8.png)"></div>
 			<!-- Sec Title -->
 			<div class="sec-title light centered">
-				<div class="sec-title_title">Our Client’s Testimonials</div>
+				<div class="sec-title_title">Our Client's Testimonials</div>
 			</div>
 			<div class="single-item-carousel owl-carousel owl-theme">
 
@@ -432,11 +432,13 @@ include 'shared/header.php';
 				<div class="testimonial-block_one">
 					<div class="testimonial-block_one-inner">
 						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
-						<div class="testimonial-block_one-text">Ordered my first mobile app development to iCoderz
-							Solutions. I was inexperienced contractor but they carefully listened to my request and
-							try to deliver the best quality of service.</div>
-						<h5 class="testimonial-block_one-author">Sachin Diwar</h5>
-						<div class="testimonial-block_one-designation">(Sr IT Director at Instrek & ID Design Ltd)
+						<div class="testimonial-block_one-text">
+							I would like to appreciate your team engineer Mohan Babu for fixing our company laptop
+							problems which is a long time pending by different engineers.
+						</div>
+						<h5 class="testimonial-block_one-author"> Bharanidharan </h5>
+						<div class="testimonial-block_one-designation">
+							Revature Pvt. Lmt.
 						</div>
 					</div>
 				</div>
@@ -445,11 +447,14 @@ include 'shared/header.php';
 				<div class="testimonial-block_one">
 					<div class="testimonial-block_one-inner">
 						<div class="testimonial-block_one-quote fas fa-quote-left "></div>
-						<div class="testimonial-block_one-text">Ordered my first mobile app development to iCoderz
-							Solutions. I was inexperienced contractor but they carefully listened to my request and
-							try to deliver the best quality of service.</div>
-						<h5 class="testimonial-block_one-author">Sachin Diwar</h5>
-						<div class="testimonial-block_one-designation">(Sr IT Director at Instrek & ID Design Ltd)
+						<div class="testimonial-block_one-text">
+							We are very much satisfied with the service given by Nivesh for the Lenovo laptop flickering issue.
+							The laptop is working fine now without any issues, And also his support and mannerism is appreciable. 
+							Thank you Nivesh & Team
+						</div>
+						<h5 class="testimonial-block_one-author"> Pragathi B </h5>
+						<div class="testimonial-block_one-designation">
+							HCL Tech, Chennai
 						</div>
 					</div>
 				</div>
@@ -458,11 +463,58 @@ include 'shared/header.php';
 				<div class="testimonial-block_one">
 					<div class="testimonial-block_one-inner">
 						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
-						<div class="testimonial-block_one-text">Ordered my first mobile app development to iCoderz
-							Solutions. I was inexperienced contractor but they carefully listened to my request and
-							try to deliver the best quality of service.</div>
-						<h5 class="testimonial-block_one-author">Sachin Diwar</h5>
-						<div class="testimonial-block_one-designation">(Sr IT Director at Instrek & ID Design Ltd)
+						<div class="testimonial-block_one-text">
+							I'm satisfied with the service given and thanks for the timely support.
+						</div>
+						<h5 class="testimonial-block_one-author"> Dhinesh Karthick C </h5>
+						<div class="testimonial-block_one-designation">
+							Bosch
+						</div>
+					</div>
+				</div>
+
+				<!-- Testimonial Block One -->
+				<div class="testimonial-block_one">
+					<div class="testimonial-block_one-inner">
+						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
+						<div class="testimonial-block_one-text">
+							I would like to take this opportunity to appreciate Mohan's performance towards the repair of my TP..
+							He was calm and composed.. Dedicated towards the job and closed it out with perfection.
+							Appreciate his good work and thanks all for the support provided.
+						</div>
+						<h5 class="testimonial-block_one-author"> Venkatesan K </h5>
+						<div class="testimonial-block_one-designation">
+							IBM, India
+						</div>
+					</div>
+				</div>
+
+				<!-- Testimonial Block One -->
+				<div class="testimonial-block_one">
+					<div class="testimonial-block_one-inner">
+						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
+						<div class="testimonial-block_one-text">
+							Team has troubleshooted the problem in the laptop motherboard and the replacement has been 
+							done in a short period of time. I'm really happy and appriciate vimal for his kind support 
+							and care in his work.
+						</div>
+						<h5 class="testimonial-block_one-author"> Panner Selvam J </h5>
+						<div class="testimonial-block_one-designation">
+							Vestas
+						</div>
+					</div>
+				</div>
+
+				<!-- Testimonial Block One -->
+				<div class="testimonial-block_one">
+					<div class="testimonial-block_one-inner">
+						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
+						<div class="testimonial-block_one-text">
+							Good stuff team. Keep it up
+						</div>
+						<h5 class="testimonial-block_one-author"> Farooq Khan </h5>
+						<div class="testimonial-block_one-designation">
+							Lenovo, India
 						</div>
 					</div>
 				</div>

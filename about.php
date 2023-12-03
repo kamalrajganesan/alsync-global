@@ -349,27 +349,52 @@
 		<!-- End Process One -->
 
 		<!--clients-->
-		<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;">
+		<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;z-index: 9;">
+			
 			<div class="container-fluid">
 				<div class="sec-title light centered">
-					<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
-					<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
-							Clients</span></h2>
+					<div class="sec-title_title">We <span class="theme_color"> Cater </span> to</div>
+					<h2 class="sec-title_heading">alomst <span class="theme_color"> all sectors </span> </h2>
 				</div>
 				<div class="clients-three_inner-container">
+					
 					<!-- Sponsors Carousel -->
 					<ul class="sponsors-carousel-two owl-carousel owl-theme">
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
-						<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1.png" alt=""></a></figure></li> -->
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/education_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/finance_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/government_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/travel_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/retail_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/manufacture_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/healthcare_sector.jpg" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/telecom_sector.jpg" alt=""></a></figure></li>
 					</ul>
 				</div>
 			</div>
+
+			<!-- Complaince report -->
+
+			<!-- <div class="sec-title light centered"> 
+				<div class="sec-title_title"></div>
+				<h2 class="sec-title_heading">Our <span class="theme_color"> Complaince </span> Reports </h2>
+			</div>
+			<div class="clients-three_inner-container">
+				<div class="row">
+					<div class="col-12 text-center">
+						<ul class="">
+							<li> <a href="https://google.com">
+								Annual report 2021-2022
+							</a> </li>
+							<li> <a href="https://facebook.com">
+								Annual report 2022-2023
+							</a> </li>
+						</ul>
+					</div>
+				</div>
+			</div> -->
+
+			<!-- End of Complaince report -->
+
 		</section>
 		<!--End Clients-->
 
